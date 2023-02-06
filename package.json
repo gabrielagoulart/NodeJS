@@ -3,18 +3,17 @@
   "version": "8.15.0",
   "description": "",
   "main": "index.js",
-
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "learning",
     "nodejs"
   ],
-  
   "author": "Gabriela Goulart",
   "license": "MIT",
   "dependencies": {
-    "cfonts": "^3.1.1"
+    "cfonts": "^3.1.1",
+    "moment": "^2.29.4"
   }
 }
